@@ -10,7 +10,7 @@ use tokio::{
     time::timeout,
 };
 
-use http_server_starter_rust::*;
+use http_server_rs::*;
 
 const PORT: u16 = 4221;
 const READ_TIMEOUT_SECS: u64 = 5;

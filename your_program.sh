@@ -22,4 +22,4 @@ cargo build \
 #
 # - Edit this to change how your program runs locally
 # - Edit .codecrafters/run.sh to change how your program runs remotely
-exec /tmp/codecrafters-http-server-target/release/http-server-starter-rust "$@"
+exec /tmp/codecrafters-http-server-target/release/http-server-rs "$@"

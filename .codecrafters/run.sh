@@ -6,4 +6,4 @@
 #
 # Learn more: https://codecrafters.io/program-interface
 
-exec /tmp/codecrafters-http-server-target/release/http-server-starter-rust "$@"
+exec /tmp/codecrafters-http-server-target/release/http-server-rs "$@"
